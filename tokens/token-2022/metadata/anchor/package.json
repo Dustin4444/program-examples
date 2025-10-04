@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@coral-xyz/anchor": "^0.30.0",
-    "@solana/spl-token-metadata": "^0.1.4"
+    "@solana/spl-token-metadata": "^0.1.6"
   },
   "devDependencies": {
     "@types/bn.js": "^5.1.0",
