@@ -7,7 +7,7 @@
     "postinstall": "zx prepare.mjs"
   },
   "dependencies": {
-    "@metaplex-foundation/mpl-token-metadata": "^2.5.2",
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
     "@solana/spl-token": "^0.3.7",
     "@solana/web3.js": "^1.73.0",
     "borsh": "^0.7.0",
