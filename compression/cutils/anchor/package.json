@@ -6,7 +6,7 @@
 	},
 	"dependencies": {
 		"@coral-xyz/anchor": "^0.32.1",
-		"@metaplex-foundation/js": "^0.19.4",
+		"@metaplex-foundation/js": "^0.20.1",
 		"@metaplex-foundation/mpl-bubblegum": "^0.7.0",
 		"@solana/spl-account-compression": "^0.1.8",
 		"@solana/spl-token": "^0.3.8",
